@@ -17,5 +17,7 @@ const styles = StyleSheet.create({
     borderColor: "white",
     padding: 12,
     marginVertical: 12,
+    width: 300,
+    maxWidth: "80%",
   },
 });
